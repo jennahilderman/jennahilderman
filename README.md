@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Jenna Hilderman!
 💻 **Electrical Engineer** | **Embedded Systems & Software Developer** | **Problem Solver**
+
 📍 Victoria, Canada
+
 I'm an Electrical Engineering student at the University of Victoria specializing in computational intelligence. With a passion for software and hardware development, I enjoy building tools and automation solutions that make workflows easier!
 
 ### 👩‍💻 About Me
